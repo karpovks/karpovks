@@ -1,6 +1,6 @@
-[![Header](/karpovks/images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
+![header](https://ipfs.io/ipfs/QmW2AhGkpfg7tnZK3DGNrzmUqknj8XVx6PvpaC8Sha6fpS?filename=header-01.jpg)
 
-# Hello, folks! <img src=../karpovks/images/waving_hand_400px.gif width="30px">
+# Hello, folks! <img src= ../karpovks/images/waving_hand_400px.gif width="30px">
 ---
 My name is Kurt Karpov and I'm a Software Delivery Specialist and Product Manager. I'm from Detroit, living in New Orleans and currently working at Contino. You can find me on [LinkedIn](https://www.linkedin.com/in/kurtkarpov/).
 
