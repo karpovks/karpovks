@@ -1,3 +1,48 @@
+[![Header](../images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
+
+# Hello, folks! <img src="../images/waving_hand_400px.gif" width="30px">
+---
+My name is Kurt Karpov and I'm a Software Delivery Specialist and Product Manager. I'm from Detroit, living in New Orleans and currently working at Contino. You can find me on [![LinkedIn]["../images/Linkedin-Logo.png"](https://www.linkedin.com/in/kurtkarpov/).
+
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+
+---
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skills-Agile-informational?style=flat&logo=agile&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skills-Scrum-informational?style=flat&logo=agile&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skills-SAFe-informational?style=flat&logo=agile&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Management-Product-informational?style=flat&logo=product&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Management-Program-informational?style=flat&logo=product&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Management-Project-informational?style=flat&logo=product&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Op_Models-Cloud_Adoption-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Op_Models-SRE-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Knowledge_Area-Security-informational?style=flat&logo=adblock&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Knowledge_Area-FinOps-informational?style=flat&logo=bitcoin&logoColor=white&color=2bbc8a)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/karpovks/karpovks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
+
+<a href="https://github.com/karpovks/karpovks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/karpovks/website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<!-- <a href="https://github.com/karpovks/general">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=genral&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>     -->
+
+---
 ### Hi there 👋
 
 <!--
