@@ -1,4 +1,4 @@
-[![Header](../karpovks/images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
+[![Header](/karpovks/images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
 
 # Hello, folks! <img src=../karpovks/images/waving_hand_400px.gif width="30px">
 ---
