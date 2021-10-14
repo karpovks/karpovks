@@ -1,12 +1,12 @@
-[![Header](../images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
+[![Header](../karpovks/images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
 
-# Hello, folks! <img src="../images/waving_hand_400px.gif" width="30px">
+# Hello, folks! <img src=../karpovks/images/waving_hand_400px.gif width="30px">
 ---
-My name is Kurt Karpov and I'm a Software Delivery Specialist and Product Manager. I'm from Detroit, living in New Orleans and currently working at Contino. You can find me on [![LinkedIn]["../images/Linkedin-Logo.png"](https://www.linkedin.com/in/kurtkarpov/).
+My name is Kurt Karpov and I'm a Software Delivery Specialist and Product Manager. I'm from Detroit, living in New Orleans and currently working at Contino. You can find me on [LinkedIn](https://www.linkedin.com/in/kurtkarpov/).
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also blog and write on current topics and technologies - you can find my articles on my LinkedIn at [Kurt Karpov](https://linkedin.com/in/kurtkarpov/) as well as on [Medium](https://medium.com/@kurtskarpov).
 
 ---
 ## 🔧 Technologies & Tools
@@ -43,7 +43,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>     -->
 
 ---
-### Hi there 👋
 
 <!--
 **karpovks/karpovks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
