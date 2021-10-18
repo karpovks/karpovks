@@ -1,16 +1,13 @@
-<<<<<<< HEAD
-[![Header](images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
-=======
-[![header](https://ipfs.io/ipfs/QmW2AhGkpfg7tnZK3DGNrzmUqknj8XVx6PvpaC8Sha6fpS?filename=header-01.jpg "header")](https://www.kurtkarpov.com)
->>>>>>> 561280ac5d944ae778750fd478673c40a91d8fc5
+[![header](images/header-01.jpg)](https://www.kurtkarpov.com/)
 
-# Hello, folks! <img src= "https://ipfs.io/ipfs/QmZapZuWs4ms5Ub3XpoCFuiwXcssigbTDHJ9iRjsi4NX1K?filename=waving_hand_400px.gif" width="30px">
+# Hello, folks! <img src= images/wave-hello.gif width="30px">
 ---
+
 My name is Kurt Karpov and I'm a Software Delivery Specialist and Product Manager. I'm from Detroit, living in New Orleans and currently working at Contino. You can find me on [LinkedIn](https://www.linkedin.com/in/kurtkarpov/).
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also blog and write on current topics and technologies - you can find my articles on my LinkedIn at [LinkedIn](https://linkedin.com/in/kurtkarpov/) as well as on [Medium](https://medium.com/@kurtskarpov).
+Apart from coding, I also blog and write on current topics and technologies - you can find my articles on my LinkedIn at [Kurt Karpov](https://linkedin.com/in/kurtkarpov/) as well as on [Medium](https://medium.com/@kurtskarpov).
 
 ---
 ## 🔧 Technologies & Tools
@@ -27,23 +24,18 @@ Apart from coding, I also blog and write on current topics and technologies - yo
 ![](https://img.shields.io/badge/Knowledge_Area-Security-informational?style=flat&logo=adblock&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Knowledge_Area-FinOps-informational?style=flat&logo=bitcoin&logoColor=white&color=2bbc8a)
 
+---
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/karpovks/karpovks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/karpovks/karpovks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
-<a href="https://github.com/karpovks/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
+![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&theme=radical)
 
-<a href="https://github.com/karpovks/my-wave-portaal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=website&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=my-wave-portal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- <a href="https://github.com/karpovks/general">
