@@ -1,4 +1,4 @@
-[![Header](../karpovks/images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
+[![Header](images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
 
 # Hello, folks! <img src=../karpovks/images/waving_hand_400px.gif width="30px">
 ---
@@ -34,6 +34,10 @@ Apart from coding, I also blog and write on current topics and technologies - yo
 </a>
 
 <a href="https://github.com/karpovks/website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
+
+<a href="https://github.com/karpovks/my-wave-portaal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
