@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 [![Header](images/header-01.jpg "Header")](https://www.kurtkarpov.com/)
+=======
+[![header](https://ipfs.io/ipfs/QmW2AhGkpfg7tnZK3DGNrzmUqknj8XVx6PvpaC8Sha6fpS?filename=header-01.jpg "header")](https://www.kurtkarpov.com)
+>>>>>>> 561280ac5d944ae778750fd478673c40a91d8fc5
 
-# Hello, folks! <img src=../karpovks/images/waving_hand_400px.gif width="30px">
+# Hello, folks! <img src= "https://ipfs.io/ipfs/QmZapZuWs4ms5Ub3XpoCFuiwXcssigbTDHJ9iRjsi4NX1K?filename=waving_hand_400px.gif" width="30px">
 ---
 My name is Kurt Karpov and I'm a Software Delivery Specialist and Product Manager. I'm from Detroit, living in New Orleans and currently working at Contino. You can find me on [LinkedIn](https://www.linkedin.com/in/kurtkarpov/).
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also blog and write on current topics and technologies - you can find my articles on my LinkedIn at [Kurt Karpov](https://linkedin.com/in/kurtkarpov/) as well as on [Medium](https://medium.com/@kurtskarpov).
+Apart from coding, I also blog and write on current topics and technologies - you can find my articles on my LinkedIn at [LinkedIn](https://linkedin.com/in/kurtkarpov/) as well as on [Medium](https://medium.com/@kurtskarpov).
 
 ---
 ## 🔧 Technologies & Tools
