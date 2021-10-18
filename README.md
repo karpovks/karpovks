@@ -6,7 +6,7 @@ My name is Kurt Karpov and I'm a Software Delivery Specialist and Product Manage
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also blog and write on current topics and technologies - you can find my articles on my LinkedIn at [Kurt Karpov](https://linkedin.com/in/kurtkarpov/) as well as on [Medium](https://medium.com/@kurtskarpov).
+Apart from coding, I also blog and write on current topics and technologies - you can find my articles on my LinkedIn at [LinkedIn](https://linkedin.com/in/kurtkarpov/) as well as on [Medium](https://medium.com/@kurtskarpov).
 
 ---
 ## 🔧 Technologies & Tools
