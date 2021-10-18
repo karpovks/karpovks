@@ -45,23 +45,6 @@ Apart from coding, I also blog and write on current topics and technologies - yo
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&theme=radical)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=website&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=my-wave-portal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!-- <a href="https://github.com/karpovks/general">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=genral&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>     -->
-
----
-
 <!--
 **karpovks/karpovks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
