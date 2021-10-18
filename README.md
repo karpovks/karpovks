@@ -27,6 +27,24 @@ Apart from coding, I also blog and write on current topics and technologies - yo
 ---
 ## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/karpovks/karpovks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/karpovks/karpovks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/karpovks/website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=website&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/karpovks/my-wave-portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=my-wave-portal&show_icons=true&theme=radical" />
+</a>
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
