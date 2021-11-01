@@ -48,7 +48,7 @@ Apart from coding, I also blog and write on current topics and technologies - yo
 </a>
 
 <a href="https://github.com/karpovks/epic-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=epicnft&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=epic-game&show_icons=true&theme=radical" />
 </a>
 
 ---
