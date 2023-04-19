@@ -3,11 +3,13 @@
 # Hello, folks! <img src= images/wave-hello.gif width="30px">
 ---
 
-My name is Kurt Karpov and I'm a Software Delivery Specialist and Product Manager. I'm from Detroit, living in New Orleans and currently working at Contino. You can find me on [LinkedIn](https://www.linkedin.com/in/kurtkarpov/).
+My name is Kurt Karpov and I'm a Expierenced Senior Technical Program Director. I'm originally from Detroit, but now living in New Orleans and currently working at Oteemo. You can find me on [LinkedIn](https://www.linkedin.com/in/kurtkarpov/).
+
+📫 How to reach me: Kurt.s.Karpov@gmail.com<mailto:kurt.s.karpov@gmail.com>
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also blog and write on current topics and technologies - you can find my articles on my LinkedIn at [Kurt Karpov](https://linkedin.com/in/kurtkarpov/) as well as on [Medium](https://medium.com/@kurtskarpov).
+Apart from finding new and creative ways to bring people together in an effort, I also blog and write on current topics and technologies - you can find my articles on my LinkedIn at [Kurt Karpov](https://linkedin.com/in/kurtkarpov/) as well as on [Medium](https://medium.com/@kurtskarpov).
 
 ---
 ## 🔧 Technologies & Tools
