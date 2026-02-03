@@ -1,12 +1,12 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                                       ║
-║      ██╗  ██╗██╗   ██╗██████╗ ████████╗    ██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗      ║
-║      ██║ ██╔╝██║   ██║██╔══██╗╚══██╔══╝    ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║   ██║      ║
-║      █████╔╝ ██║   ██║██████╔╝   ██║       █████╔╝ ███████║██████╔╝██████╔╝██║   ██║██║   ██║      ║
-║      ██╔═██╗ ██║   ██║██╔══██╗   ██║       ██╔═██╗ ██╔══██║██╔══██╗██╔═══╝ ██║   ██║╚██╗ ██╔╝      ║
-║      ██║  ██╗╚██████╔╝██║  ██║   ██║       ██║  ██╗██║  ██║██║  ██║██║     ╚██████╔╝ ╚████╔╝       ║
-║      ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝   ╚═══╝        ║
+║         ██╗  ██╗██╗   ██╗██████╗ ████████╗    ██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗      ║
+║         ██║ ██╔╝██║   ██║██╔══██╗╚══██╔══╝    ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║   ██║      ║
+║         █████╔╝ ██║   ██║██████╔╝   ██║       █████╔╝ ███████║██████╔╝██████╔╝██║   ██║██║   ██║      ║
+║         ██╔═██╗ ██║   ██║██╔══██╗   ██║       ██╔═██╗ ██╔══██║██╔══██╗██╔═══╝ ██║   ██║╚██╗ ██╔╝      ║
+║         ██║  ██╗╚██████╔╝██║  ██║   ██║       ██║  ██╗██║  ██║██║  ██║██║     ╚██████╔╝ ╚████╔╝       ║
+║         ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝   ╚═══╝        ║
 ║                                                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -60,32 +60,6 @@ When I'm not shipping code or wrangling Kubernetes clusters, you'll find me writ
 
 ---
 
-## &#x1f4c8; GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&theme=tokyonight&hide_border=true&title_color=2BBC8A&icon_color=2BBC8A&text_color=C9D1D9&bg_color=0D1117)](https://github.com/karpovks)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=karpovks&theme=tokyonight&hide_border=true&background=0D1117&ring=2BBC8A&fire=2BBC8A&currStreakLabel=2BBC8A&dates=C9D1D9)](https://github.com/karpovks)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&layout=compact&theme=tokyonight&hide_border=true&title_color=2BBC8A&text_color=C9D1D9&bg_color=0D1117&langs_count=6)](https://github.com/karpovks)
-
-</div>
-
----
-
-
-<!--
-**karpovks/karpovks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Check out my pinned repositories below to see what I'm working on! 👇</i>
+</p>
