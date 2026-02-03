@@ -1,18 +1,18 @@
 ```ascii
-╔════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                    ║
-║   ██╗  ██╗██╗   ██╗██████╗ ████████╗    ██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗
-║   ██║ ██╔╝██║   ██║██╔══██╗╚══██╔══╝    ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║   ██║
-║   █████╔╝ ██║   ██║██████╔╝   ██║       █████╔╝ ███████║██████╔╝██████╔╝██║   ██║██║   ██║
-║   ██╔═██╗ ██║   ██║██╔══██╗   ██║       ██╔═██╗ ██╔══██║██╔══██╗██╔═══╝ ██║   ██║╚██╗ ██╔╝
-║   ██║  ██╗╚██████╔╝██║  ██║   ██║       ██║  ██╗██║  ██║██║  ██║██║     ╚██████╔╝ ╚████╔╝
-║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝   ╚═══╝
-║                                                                                    ║
-║           🚀 Senior Technical Program Director | AI + Cloud Architect             ║
-║           🤖 Building RAG Systems & Leading Engineering Teams                     ║
-║           ⚡ Transforming Complex Challenges into Scalable Solutions              ║
-║                                                                                    ║
-╚════════════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                   ║
+║      ██╗  ██╗██╗   ██╗██████╗ ████████╗    ██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗  ║
+║      ██║ ██╔╝██║   ██║██╔══██╗╚══██╔══╝    ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║   ██║  ║
+║      █████╔╝ ██║   ██║██████╔╝   ██║       █████╔╝ ███████║██████╔╝██████╔╝██║   ██║██║   ██║  ║
+║      ██╔═██╗ ██║   ██║██╔══██╗   ██║       ██╔═██╗ ██╔══██║██╔══██╗██╔═══╝ ██║   ██║╚██╗ ██╔╝  ║
+║      ██║  ██╗╚██████╔╝██║  ██║   ██║       ██║  ██╗██║  ██║██║  ██║██║     ╚██████╔╝ ╚████╔╝   ║
+║      ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝   ╚═══╝    ║
+║                                                                                                   ║
+║              🚀 Senior Technical Program Director | AI + Cloud Architect                         ║
+║              🤖 Building RAG Systems & Leading Engineering Teams                                 ║
+║              ⚡ Transforming Complex Challenges into Scalable Solutions                          ║
+║                                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
@@ -209,29 +209,22 @@ I'm always happy to discuss and share insights on:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/karpovks/karpovks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&show_icons=true&theme=radical" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&icon_color=2BBC8A&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karpovks&theme=radical&hide_border=true&background=0D1117&ring=2BBC8A&fire=2BBC8A&currStreakLabel=2BBC8A" alt="GitHub Streak" height="180"/>
+</p>
 
-<a href="https://github.com/karpovks/karpovks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&theme=radical" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</p>
 
-<a href="https://github.com/karpovks/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=website&show_icons=true&theme=radical" />
-</a>
+### 🐍 Contribution Snake
 
-<a href="https://github.com/karpovks/my-wave-portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=my-wave-portal&show_icons=true&theme=radical" />
-</a>
-
-<a href="https://github.com/karpovks/epicnft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=epicnft&show_icons=true&theme=radical" />
-</a>
-
-<a href="https://github.com/karpovks/epic-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karpovks&repo=epic-game&show_icons=true&theme=radical" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karpovks/karpovks/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karpovks/karpovks/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karpovks/karpovks/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
