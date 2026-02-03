@@ -1,14 +1,14 @@
 ```ascii
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                   ║
-║      ██╗  ██╗██╗   ██╗██████╗ ████████╗    ██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗  ║
-║      ██║ ██╔╝██║   ██║██╔══██╗╚══██╔══╝    ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║   ██║  ║
-║      █████╔╝ ██║   ██║██████╔╝   ██║       █████╔╝ ███████║██████╔╝██████╔╝██║   ██║██║   ██║  ║
-║      ██╔═██╗ ██║   ██║██╔══██╗   ██║       ██╔═██╗ ██╔══██║██╔══██╗██╔═══╝ ██║   ██║╚██╗ ██╔╝  ║
-║      ██║  ██╗╚██████╔╝██║  ██║   ██║       ██║  ██╗██║  ██║██║  ██║██║     ╚██████╔╝ ╚████╔╝   ║
-║      ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝   ╚═══╝    ║
-║                                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                       ║
+║      ██╗  ██╗██╗   ██╗██████╗ ████████╗    ██╗  ██╗ █████╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗      ║
+║      ██║ ██╔╝██║   ██║██╔══██╗╚══██╔══╝    ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║   ██║      ║
+║      █████╔╝ ██║   ██║██████╔╝   ██║       █████╔╝ ███████║██████╔╝██████╔╝██║   ██║██║   ██║      ║
+║      ██╔═██╗ ██║   ██║██╔══██╗   ██║       ██╔═██╗ ██╔══██║██╔══██╗██╔═══╝ ██║   ██║╚██╗ ██╔╝      ║
+║      ██║  ██╗╚██████╔╝██║  ██║   ██║       ██║  ██╗██║  ██║██║  ██║██║     ╚██████╔╝ ╚████╔╝       ║
+║      ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝   ╚═══╝        ║
+║                                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # Hey, I'm Kurt 👋
@@ -62,22 +62,15 @@ When I'm not shipping code or wrangling Kubernetes clusters, you'll find me writ
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&icon_color=2BBC8A&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karpovks&theme=radical&hide_border=true&background=0D1117&ring=2BBC8A&fire=2BBC8A&currStreakLabel=2BBC8A" alt="GitHub Streak" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karpovks&show_icons=true&theme=tokyonight&hide_border=true&title_color=2BBC8A&icon_color=2BBC8A&text_color=C9D1D9&bg_color=0D1117)](https://github.com/karpovks)
 
-### 🐍 Contribution Snake
+[![GitHub Streak](https://streak-stats.demolab.com?user=karpovks&theme=tokyonight&hide_border=true&background=0D1117&ring=2BBC8A&fire=2BBC8A&currStreakLabel=2BBC8A&dates=C9D1D9)](https://github.com/karpovks)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karpovks/karpovks/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karpovks/karpovks/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karpovks/karpovks/output/github-contribution-grid-snake.svg">
-</picture>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karpovks&layout=compact&theme=tokyonight&hide_border=true&title_color=2BBC8A&text_color=C9D1D9&bg_color=0D1117&langs_count=6)](https://github.com/karpovks)
+
+</div>
 
 ---
 
